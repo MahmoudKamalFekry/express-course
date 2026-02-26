@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "node Express-Course/HTTP-Basics.js",
-    "dev": "nodemon Express-Course/HTTP-Basics.js"
+    
+    "dev": "nodemon Express-Course/HTTP-Headers.js"
+    
   },
   "keywords": [],
   "author": "",
